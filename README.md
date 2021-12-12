@@ -6,7 +6,8 @@
     <body>
         <table  cellpadding="20" cellspacing="5" width="100%">
             <tr  >
-            <td align="center"><p><img src="IMG_8622.JPG" width="160" height="210"> </p></td>
+            <td align="center"><p><img src="IMG_8622.JPG" width="160" height="210"> 
+                </p></td>
             <td>
               <h1> Сердюк Катерина Дмитрівна</h1>
               <font size="5"> <em>19 років<br> Студентка 2-го курсу Національного Авіаційного Університету
@@ -36,7 +37,8 @@
                       Ukrainian <br>
                       Russian <br>
                       Comunication <br>
-                      Creativity <br></font></td>
+                      Creativity <br>
+                           </font></td>
                       <td><font size="5"> 
                       ⭐⭐⭐⭐<br>
                       ⭐⭐⭐⭐⭐<br>
@@ -78,7 +80,8 @@
                                 <li><em>"Паперові міста"</em>  Джон Грін</li>
                                 <li><em>"Гаррі Поттер"</em>   Джоан Роулінг</li>
                                 <li><em>"Пригоди Шерлока Холмса"</em>   Артур Конан Дойл</li>
-                             </font> </ul></td>
+                             </font> 
+        </ul></td>
                         <td>
                                 <ul> <font size="4">
                                 <li type="square">Інколи мені хочеться пожити в іншому часі: у 60-70х, в епоху розквіту хіпі, або у 80-х, серед руху глем-року</li>
