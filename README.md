@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html lang="ua">
-    <head>
-        <meta charset="utf-8">
-    <title>Персональна сторінка</title>
+<title>Персональна сторінка</title>
     </head>
     <body>
         <table  cellpadding="20" cellspacing="5" width="100%">
