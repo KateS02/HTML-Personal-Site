@@ -46,7 +46,8 @@
                       Creativity <br>
                            </td>
         </font>
-                      <td><font size="5"> 
+                      <td>
+                          <font size="5"> 
                       ⭐⭐⭐⭐<br>
                       ⭐⭐⭐⭐⭐<br>
                        ⭐⭐⭐⭐⭐<br>
@@ -59,7 +60,7 @@
                 <table>
                     <tr>
                 <td>
-                    <h1>Дсвід роботи: </h1>
+                    <h1>Досвід роботи: </h1>
                 </td>
     </tr>
     <tr>
@@ -116,5 +117,6 @@
            <Label for="">Ваше повідомлення:</Label><br>
             <textarea rows="10" cols="30"></textarea><br>
             <input type="submit">
-    </font></form>
+    </font>
+    </form>
     </body>
