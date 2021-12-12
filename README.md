@@ -24,28 +24,28 @@
                       Python <br>
                       Photography <br>
                       Drawing <br>
-                       </font></td>
+                       </td></font>
                        <td><font size="5">
                         ⭐⭐⭐⭐<br>
                         ⭐⭐⭐⭐<br>
                         ⭐⭐⭐⭐<br>
                         ⭐⭐⭐⭐<br>
                         ⭐⭐⭐<br>
-                       </font></td>
+                       </td></font>
                        <td ><font size="5"> 
                       English <br>
                       Ukrainian <br>
                       Russian <br>
                       Comunication <br>
                       Creativity <br>
-                           </font></td>
+                           </td></font>
                       <td><font size="5"> 
                       ⭐⭐⭐⭐<br>
                       ⭐⭐⭐⭐⭐<br>
                        ⭐⭐⭐⭐⭐<br>
                        ⭐⭐⭐⭐<br>
                        ⭐⭐⭐⭐⭐<br>
-                       </td></tr></table> </font>
+                       </td></font></tr></table> 
                 <table>
                     <tr>
                 <td>
