@@ -36,7 +36,7 @@
                         ⭐⭐⭐⭐<br>
                         ⭐⭐⭐⭐<br>
                         ⭐⭐⭐<br>
-                       </td>
+                           </td>
                 </font>
                        <td ><font size="5"> 
                       English <br>
@@ -51,9 +51,9 @@
                       ⭐⭐⭐⭐⭐<br>
                        ⭐⭐⭐⭐⭐<br>
                        ⭐⭐⭐⭐<br>
-                       ⭐⭐⭐⭐⭐<br>
+                       ⭐⭐⭐⭐⭐<b>
                           </td>
-    </font>
+                          </font>
     </tr>
     </table> 
                 <table>
