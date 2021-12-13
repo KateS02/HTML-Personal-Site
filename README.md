@@ -6,63 +6,42 @@
     <body>
         <table  cellpadding="20" cellspacing="5" width="100%">
             <tr >
-            <td align="center"><p><img src="IMG_8622.JPG" width="160" height="210"> 
-                </p>
-                </td>
+            <td align="center"><p><img src="IMG_8622.JPG" width="160" height="210"></p></td>
             <td>
               <h1> Сердюк Катерина Дмитрівна</h1>
-              <font size="5"> <em>19 років<br> Студентка 2-го курсу Національного Авіаційного Університету
-            </em></font> 
-            </td>
-            </tr >
-            </table>
+              <font size="5"> <em>19 років<br> Студентка 2-го курсу Національного Авіаційного Університету</em></font> </td></tr ></table>
             <table frame="border" cellpadding="5" width="70%">
                 <tr>
-                    <td colspan="2"><h1> Навички:</h1>
-                    </td>
-                </tr>
+                    <td colspan="2"><h1> Навички:</h1></td></tr>
                 <tr>
             <td ><font size="5"> 
                       C <br>
                       HTML <br>
                       Python <br>
                       Photography <br>
-                      Drawing <br>
-                       </td>
-                </font>
+                      Drawing <br></td></font>
                        <td><font size="5">
                         ⭐⭐⭐⭐<br>
                         ⭐⭐⭐⭐<br>
                         ⭐⭐⭐⭐<br>
                         ⭐⭐⭐⭐<br>
-                        ⭐⭐⭐<br>
-                           </td>
-                </font>
+                        ⭐⭐⭐<br></td></font>
                        <td ><font size="5"> 
                       English <br>
                       Ukrainian <br>
                       Russian <br>
                       Comunication <br>
-                      Creativity <br>
-                           </td>
-        </font>
-                      <td>
-                          <font size="5"> 
+                      Creativity <br></td></font>
+                      <td><font size="5"> 
                       ⭐⭐⭐⭐<br>
                       ⭐⭐⭐⭐⭐<br>
                        ⭐⭐⭐⭐⭐<br>
                        ⭐⭐⭐⭐<br>
-                       ⭐⭐⭐⭐⭐<b>
-                          </td>
-                          </font>
-    </tr>
-    </table> 
+                       ⭐⭐⭐⭐⭐<b></td></font></tr></table> 
                 <table>
                     <tr>
                 <td>
-                    <h1>Досвід роботи: </h1>
-                </td>
-    </tr>
+                    <h1>Досвід роботи: </h1></td></tr>
     <tr>
                 <td colspan="2"><font size="4"> 
                   <p><b>Волонтерство</b></p><br>
@@ -76,15 +55,10 @@
                     <td colspan="2"> <h1> Шкільні роки:</h1>
              <font size="4"> 
                  З 2009 по 2020 роки навчалася у <a href="http://kramatorsk-school4.edukit.dn.ua/Ліцеї"> №4 "Успіх" </a>(місто Краматорськ,Донецька область).
-                        Протягом усього навчання мала гарну шкільну успішність та активно брала участь у творчому житті школи.</font>
-                    </td>
-                </tr>
+                        Протягом усього навчання мала гарну шкільну успішність та активно брала участь у творчому житті школи.</font></td></tr>
                     <tr>
-                        <td  ><h1>Улюблені книжки:</h1>
-                        </td>
-                    <td>
-                        <h1>Декілька цікавих фактів про мене:</h1>
-                    </td></tr>
+                        <td  ><h1>Улюблені книжки:</h1></td><td>
+                        <h1>Декілька цікавих фактів про мене:</h1></td></tr>
 <tr>
     <td>                            
     <font size="4"> <ul>
@@ -92,10 +66,7 @@
                                 <li><em>"Людина-амфібія"</em>  Андрій Бєляєв</li>
                                 <li><em>"Паперові міста"</em>  Джон Грін</li>
                                 <li><em>"Гаррі Поттер"</em>   Джоан Роулінг</li>
-                                <li><em>"Пригоди Шерлока Холмса"</em>   Артур Конан Дойл</li>
-                             </font> 
-        </ul>
-    </td>
+                                <li><em>"Пригоди Шерлока Холмса"</em>   Артур Конан Дойл</li></font></ul></td>
                         <td>
                                 <ul> <font size="4">
                                 <li type="square">Інколи мені хочеться пожити в іншому часі: у 60-70х, в епоху розквіту хіпі, або у 80-х, серед руху глем-року</li>
