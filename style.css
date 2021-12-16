@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(252, 223, 198);
+}
+a{
+    color: rgb(247, 210, 4);
+}
+h1{ 
+    font-family:cursive;
+    color:rgb(49, 4, 49);
+}
+p {
+    font-size: 20px;
+    line-height: normal; 
+  }
+hr{ border-top-style: dotted ;
+    border-width: 10px;
+    width: 80%;
+    border-bottom: none;
+    border-top-color: rebeccapurple;
+    border-left: none;
+    border-right: none;
+}
+#sidebar h1 {color: inherit; }
