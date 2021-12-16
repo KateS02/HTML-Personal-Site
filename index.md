@@ -25,7 +25,7 @@
                         ⭐⭐⭐⭐<br>
                         ⭐⭐⭐⭐<br>
                         ⭐⭐⭐<br></td></font>
-                       <td ><font size="5"> 
+                       <td><font size="5"> 
                       English <br>
                       Ukrainian <br>
                       Russian <br>
