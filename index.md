@@ -30,7 +30,7 @@
                       Ukrainian <br>
                       Russian <br>
                       Comunication <br>
-                      Creativity <br></td></font>
+                      Creativity </font><br></td>
                       <td><font size="5"> 
                       ⭐⭐⭐⭐<br>
                       ⭐⭐⭐⭐⭐<br>
