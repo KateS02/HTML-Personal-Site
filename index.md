@@ -20,7 +20,6 @@
                       Python <br>
                       Photography <br>
                       Drawing <br>
-                
                 </font></td>
                        <td><font size="5">
                         ⭐⭐⭐⭐<br>
@@ -39,10 +38,7 @@
                       ⭐⭐⭐⭐⭐<br>
                        ⭐⭐⭐⭐⭐<br>
                        ⭐⭐⭐⭐<br>
-                       ⭐⭐⭐⭐⭐<br>
-                          
-                
-                         </font></td></tr></table>
+                       ⭐⭐⭐⭐⭐<br></font></td></tr></table>
                 <table>
                     <tr>
                 <td>
