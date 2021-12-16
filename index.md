@@ -9,12 +9,11 @@
             <td align="center"><p><img src="IMG_8622.JPG" width="160" height="210"></p></td>
             <td>
               <h1> Сердюк Катерина Дмитрівна</h1>
-              <font size="5"> <em>19 років<br> Студентка 2-го курсу Національного Авіаційного Університету</em></font> </td></tr ></table>
+              <font size="5"> <em>19 років<br> Студентка 2-го курсу Національного Авіаційного Університету</em></font></td></tr ></table>
             <table frame="border" cellpadding="5" width="70%">
                 <tr>
                     <td colspan="2"><h1> Навички:</h1></td></tr>
-                <tr>
-            <td ><font size="5"> 
+                <tr><td ><font size="5"> 
                       C <br>
                       HTML <br>
                       Python <br>
@@ -42,8 +41,7 @@
                     <tr>
                 <td>
                     <h1>Досвід роботи: </h1></td></tr>
-    <tr>
-                <td colspan="2"><font size="4"> 
+    <tr><td colspan="2"><font size="4"> 
                   <p><b>Волонтерство</b></p><br>
 У 2019-2020 роках займалася волонтерскою діяльністю на базі платформи "ВІЛЬна ХАта". <br>
 <p> <b>Адміністратор</b></p> <br>
