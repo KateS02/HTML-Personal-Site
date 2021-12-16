@@ -37,7 +37,7 @@
                       ⭐⭐⭐⭐⭐<br>
                        ⭐⭐⭐⭐⭐<br>
                        ⭐⭐⭐⭐<br>
-                       ⭐⭐⭐⭐⭐<b></td></font></tr></table> 
+                       ⭐⭐⭐⭐⭐<b></td></font> </tr> </table>
                 <table>
                     <tr>
                 <td>
