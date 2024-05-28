@@ -10,7 +10,8 @@
   gtag('config', 'G-WPJV526HRT');
 </script>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3319738333584824"
-     crossorigin="anonymous"></script>
+     crossorigin="anonymous"> </script>
+     
  <meta charset="utf-8">
 <title>Персональна сторінка</title>
 <link rel="stylesheet" href="style.css">
