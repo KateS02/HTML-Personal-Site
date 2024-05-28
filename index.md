@@ -1,6 +1,16 @@
 <html lang="ua">
     <head>
-        <meta charset="utf-8">
+        <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WPJV526HRT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-WPJV526HRT');
+</script>
+
+ <meta charset="utf-8">
 <title>Персональна сторінка</title>
 <link rel="stylesheet" href="style.css">
     </head>
